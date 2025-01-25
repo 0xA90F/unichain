@@ -98,4 +98,4 @@ while True:
     random_amount = random.uniform(0.00001, 0.0002)
     gas_price = get_gas_price()
     send_transaction(receiver, random_amount, gas_price)
-    countdown(200)
+    countdown(3)
