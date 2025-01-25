@@ -24,16 +24,26 @@ Jika Anda meng-clone atau fork repositori ini, pastikan untuk membaca instruksi 
     ```
 
 2. salin perintah dibawah untuk masuk folder :
-     ```bash
+    ```bash
     cd unichain
     ```
-2. Untuk meng-install dependencies secara manual (jika diperlukan)
-   Script ini akan menginstall dependencies yang diperlukan jika ada :
+    ```bash
+    python -m venv venv
+    ```
+    ```bash
+    source venv/bin/activate
+    ```
     ```bash
     pip install -r requirements.txt
     ```
+    ```bash
+    pip install setuptools
+    ```
+    ```bash
+    pip install pkg_resources
+    ```
 
-4. Jangan Lupa Untuk Mengganti :
+3. Jangan Lupa Untuk Mengganti :
     ```bash
     nano .env
     ```
@@ -41,12 +51,12 @@ Isi Alamat Address Dan Private Key Seperti Ini
 SENDER_ADDRESS=PASTE_ALAMAT_ADDRESS_KAMU_DISINI
 PRIVATE_KEY=PASTE_PRIVATE_KEY_KAMU DISINI
     
-6. Untuk menjalankan dependencies :
+4. Untuk menjalankan dependencies :
     ```bash
     python3 unichain_sepolia.py
     ```    
 
-7. Jalankan proyek dengan mengikuti instruksi yang ada di setiap file atau dokumentasi yang tersedia.
+5. Jalankan proyek dengan mengikuti instruksi yang ada di setiap file atau dokumentasi yang tersedia.
 
 ## Kontribusi
 
