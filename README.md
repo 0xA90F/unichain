@@ -25,7 +25,7 @@ Jika Anda meng-clone atau fork repositori ini, pastikan untuk membaca instruksi 
 
 2. salin perintah dibawah untuk masuk folder :
      ```bash
-    cd auto-tx-unichain
+    cd unichain
     ```
 2. Untuk meng-install dependencies secara manual (jika diperlukan)
    Script ini akan menginstall dependencies yang diperlukan jika ada :
