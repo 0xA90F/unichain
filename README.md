@@ -7,7 +7,7 @@ Selamat datang di repositori **DYMin**! 🎉
 
 ## Tentang Proyek Ini
 
-Proyek ini dibuat oleh **Bactiar291** untuk tujuan [memudahkan pengguna]. Proyek ini bertujuan untuk memudahkan pengguna yang menggunakan ].
+Proyek ini dibuat oleh **DYMin** untuk tujuan [memudahkan pengguna]. Proyek ini bertujuan untuk memudahkan pengguna yang menggunakan ].
 
 Jika Anda meng-clone atau fork repositori ini, pastikan untuk membaca instruksi di bawah ini untuk memulai.
 
@@ -20,7 +20,7 @@ Jika Anda meng-clone atau fork repositori ini, pastikan untuk membaca instruksi 
 
 1. Clone repositori ini ke mesin lokal Anda:
     ```bash
-    git clone https://github.com/bactiar291/auto-tx-unichain.git
+    git clone https://github.com/0xA90F/unichain.git
     ```
 
 2. salin perintah dibawah untuk masuk folder :
