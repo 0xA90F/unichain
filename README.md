@@ -47,7 +47,8 @@ Jika Anda meng-clone atau fork repositori ini, pastikan untuk membaca instruksi 
     ```bash
     nano .env
     ```
-Isi Alamat Address Dan Private Key Seperti Ini 
+Isi Alamat Address Dan Private Key Seperti Ini
+
 SENDER_ADDRESS=0x3yu....
 PRIVATE_KEY=697664....
     
