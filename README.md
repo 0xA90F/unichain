@@ -4,7 +4,6 @@
 Selamat datang di repositori **Bactiar291**! 🎉
 **via windows**
 
-![Screenshot](https://raw.githubusercontent.com/bactiar291/auto-tx-unichain/main/ss.png)
 
 
 ## Tentang Proyek Ini
