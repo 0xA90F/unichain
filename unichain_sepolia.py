@@ -19,7 +19,6 @@ AMOUNT_SYMBOL = Fore.LIGHTYELLOW_EX + "💵 Jumlah Kiriman:" + Style.RESET_ALL
 def print_header():
     os.system('cls' if os.name == 'nt' else 'clear')
     print(Fore.YELLOW + "=" * 50)
-    print(Fore.CYAN + " " * 10 + "AUTHOR : DYMin")
     print(Fore.MAGENTA + " " * 10 + "THANKS TO : DYMin!")
     print(Fore.BLUE + " " * 10 + "https://github.com/0xA90F/unichain.git")
     print(Fore.GREEN + " " * 10 + "BUY COFFEE FOR ME: 0xA90FFD1de89f4CE2B8F1bd81b5F12D228B100000 ")
