@@ -50,6 +50,7 @@ Jika Anda meng-clone atau fork repositori ini, pastikan untuk membaca instruksi 
 Isi Alamat Address Dan Private Key Seperti Ini
 
 SENDER_ADDRESS=0x3yu....
+
 PRIVATE_KEY=697664....
     
 4. Untuk menjalankan dependencies :
