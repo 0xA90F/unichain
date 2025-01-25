@@ -48,8 +48,8 @@ Jika Anda meng-clone atau fork repositori ini, pastikan untuk membaca instruksi 
     nano .env
     ```
 Isi Alamat Address Dan Private Key Seperti Ini 
-SENDER_ADDRESS=PASTE_ALAMAT_ADDRESS_KAMU_DISINI
-PRIVATE_KEY=PASTE_PRIVATE_KEY_KAMU DISINI
+SENDER_ADDRESS=0x3yu....
+PRIVATE_KEY=697664....
     
 4. Untuk menjalankan dependencies :
     ```bash
